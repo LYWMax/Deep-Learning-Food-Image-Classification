@@ -1,4 +1,5 @@
 # 🍜 Food Image Classification
+This project was originally completed in 2025 as part of a Deep Learning coursework project.
 
 A 10-class food image classifier built with **MobileNet transfer learning** using TensorFlow/Keras. The model is trained to recognise and classify food images into one of 10 predefined food categories.
 
