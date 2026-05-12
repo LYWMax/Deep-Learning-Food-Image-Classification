@@ -1,0 +1,9 @@
+train/
+validation/
+test/
+images/
+*.h5
+*.keras
+.ipynb_checkpoints/
+__pycache__/
+.env
